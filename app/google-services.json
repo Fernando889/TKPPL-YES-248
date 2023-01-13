@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781947993950",
+    "project_id": "tkppl-yes248",
+    "storage_bucket": "tkppl-yes248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781947993950:android:ef08121e63e0c427c819cf",
+        "android_client_info": {
+          "package_name": "com.example.tkppl_yes_248"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781947993950-g8ojqet0a16e8c1072mcvdjn9b5simqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrykawOQNASqzyBCf43rvin1D2vIW30Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781947993950-g8ojqet0a16e8c1072mcvdjn9b5simqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

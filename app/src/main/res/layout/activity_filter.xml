@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FilterCamera.FilterActivity"
+    android:gravity="center_horizontal"
+    android:background="@color/black">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="450dp">
+
+        <ImageView
+            android:id="@+id/bgphoto"
+            android:src="@drawable/ic_baseline_image_24"
+            android:scaleType="centerCrop"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="450dp"/>
+
+        <ImageView
+            android:id="@+id/bgfilter"
+            android:src="@drawable/filterhairstyle1"
+            android:scaleType="centerCrop"
+            android:layout_width="match_parent"
+            android:layout_gravity="center"
+            android:layout_height="400dp"/>
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/tvNameFilter"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HairStyle 1"
+        android:fontFamily="sans-serif-medium"
+        android:textSize="23dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/chooseImage_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Choose Image"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="18dp" />
+
+    <Button
+        android:id="@+id/capture_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/white_button_background"
+        android:fontFamily="sans-serif-medium"
+        android:text="Capture Image"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
+
+</LinearLayout>

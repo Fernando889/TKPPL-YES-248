@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <RelativeLayout
+        android:layout_width="@dimen/_200sdp"
+        android:layout_height="@dimen/_250sdp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="@dimen/_10sdp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginRight="@dimen/_20sdp"
+            android:layout_marginBottom="@dimen/_110sdp"
+            android:background="@drawable/dark_red_back"
+            android:verticalScrollbarPosition="defaultPosition">
+
+            <TextView
+                android:id="@+id/tvname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_75sdp"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:ellipsize="end"
+                android:fontFamily="sans-serif-medium"
+                android:maxLines="1"
+                android:text="HairStyle 1"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_18sdp" />
+
+            <TextView
+                android:id="@+id/tvprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_100sdp"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:ellipsize="end"
+                android:fontFamily="sans-serif-medium"
+                android:maxLines="1"
+                android:text="Rp. 60.000"
+                android:textColor="@color/white"
+                android:textSize="@dimen/_18sdp" />
+
+            <ImageView
+                android:id="@+id/img_product"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_80sdp"
+                android:src="@drawable/hairstyle1" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/drawable/border.xml" value="0.1275" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/drawable/cursor.xml" value="0.1275" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/drawable/gradient.xml" value="0.1275" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_barber_payment.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_choose_filter.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_detail.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_filter.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_get_barber.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_get_help.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_home.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_intro.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_login.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_maps.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_my_contacts.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_pick_barber.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/activity_schedule.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/card_filter.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/card_product.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/chapter_list.xml" value="0.1157941437444543" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/custom_dialog.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/fragment_appointment.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/fragment_home.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/recycler_barber_employee.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/layout/topics_list.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tugas Kuliah/Semester 7/Teknologi Kolaborasi Pengembangan Perangkat Lunak/Tugas/TKPPL-YES-248/app/src/main/res/menu/menu.xml" value="0.2230769230769231" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
